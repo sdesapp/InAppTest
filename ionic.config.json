@@ -1,0 +1,7 @@
+{
+  "name": "inapptest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
